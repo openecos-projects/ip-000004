@@ -1,0 +1,19 @@
+uid: ip-000004
+upstream_repository: https://github.com/oscc-ip/gpio
+upstream_owner: oscc-ip
+upstream_author: Beijing Institute of Open Source Chip
+upstream_ref: main
+upstream_ref_type: branch
+upstream_commit: 9b578f0d4f9e0da5e7c852c3b2ebcb45c54a8d16
+local_source_snapshot: 20250627
+local_source_project: 20250627 tapeout project
+silicon_validated: true
+mirrored_at: 2026-06-09
+mirror_policy: source-mirror
+sync_policy: none
+notes:
+  - This file records source provenance for catalog review.
+  - Current local RTL comes from the 20250627 tapeout project code.
+  - The IP has been silicon validated according to the provided project provenance.
+  - Do not run automated upstream synchronization from this repository.
+  - The observed local upstream commit is recorded for traceability, but the catalog baseline is the 20250627 project snapshot.
