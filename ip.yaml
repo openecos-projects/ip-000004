@@ -3,6 +3,7 @@ repo_name: ip-000004
 slug: gpio-apb4
 display_name: APB4 GPIO Controller
 summary: APB4-based 32-channel GPIO controller with direction control, alternate-function muxing, and configurable input interrupts.
+summary_zh: 基于 APB4 总线的 32 路 GPIO 控制器，支持输入/输出方向配置、软件与复用功能输出选择、可屏蔽输入中断，以及高/低电平和上升/下降沿触发模式；当前代码来自 20250627 流片工程快照。
 category: peripheral
 subcategories:
   - gpio
