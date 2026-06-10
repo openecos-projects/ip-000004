@@ -8,7 +8,7 @@ Family: gpio
 
 Category: peripheral
 
-Repository: git@github.com:openecos-projects/ip-000004.git
+Repository: git@github.com:openecos-projects/apb4-gpio-controller.git
 
 Upstream: https://github.com/oscc-ip/gpio
 
